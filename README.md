@@ -1,4 +1,6 @@
-# 🔳 Local Store Sales Analysis (using SQL SERVER)
+# 🔳 Local Store Sales Analysis ${\color{blue}(using\ SQL-SERVER)}$
+
+${\color{red}Go\ to}$ 🔗 [SQL Queries](https://github.com/ialam085/Local_Store_Sales_Analysis_SQL_SERVER/blob/main/SQLQuery-Local_Store_Sales_Details.sql)
 
 ### ◻️ Objective
 
