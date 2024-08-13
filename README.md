@@ -14,7 +14,7 @@
 >- Data Refinement
 >- Creating a Database and a Table
 >- Importing Excel Dataset to SQL Server
->- Data Analysis
+>- Data Analysis by various SQL queries
 
 ### ◻️ Analysis includes
 
